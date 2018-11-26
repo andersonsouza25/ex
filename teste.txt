@@ -1,1 +1,3 @@
-esse é um teste de git
+esse ï¿½ um teste de git
+
+estou editando no site do git.
