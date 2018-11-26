@@ -1,3 +1,6 @@
-esse � um teste de git
+﻿esse � um teste de git
 
 estou editando no site do git.
+
+
+estou editando no pc
